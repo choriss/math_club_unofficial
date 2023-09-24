@@ -1,0 +1,13 @@
+table.member {
+  border-collapse: collapse;
+  border: solid 1px #cac5b8;/*表全体を線で囲う*/
+  margin-bottom: 30px;
+}
+
+table th, table td {
+  border: solid 1px #cac5b8;/**/
+}
+table th{/*thに対して*/
+  color: #FFFFFF;/*文字色*/
+  background: #001a8d;/*背景色*/
+}
